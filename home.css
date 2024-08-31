@@ -1,0 +1,129 @@
+
+    /* Custom CSS Styles */
+    body {
+        background-color: #f8f9fa;
+        color: #333;
+       
+      }
+    #banner {
+      background-color: #f8f9fa;
+      padding: 100px 0;
+    }
+
+    #banner h1, #banner p {
+      color: #333;
+      font-family: Arial, sans-serif;
+    }
+
+    #mission-vision {
+      background-color: #fff;
+      padding: 100px 0;
+    }
+
+    #mission-vision h2 {
+      color: #333;
+    }
+
+    #wings {
+      background-color: #f8f9fa;
+      padding: 100px 0;
+    }
+
+    #wings .card {
+      border: none;
+      margin-bottom: 30px;
+    }
+
+    #wings .card-body {
+      text-align: center;
+    }
+
+    #footer {
+      background-color: #343a40;
+      color: #fff;
+    }
+
+    /* Section Styling */
+    .section {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 50px;
+      height: 400px; /* Set a specific height for the sections */
+    }
+
+    .section h2 {
+      color: #333;
+    }
+
+    .section p {
+      color: #666;
+    }
+
+    .text-content {
+      max-width: 50%;
+      text-align: justify;
+    }
+
+    /* Image Styling */
+    .section img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    /* Our Values Section */
+    .our-values {
+      background-color: #000;
+      color: #fff;
+      text-align: center;
+      padding: 10px;
+    }
+
+    .values-lines {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 20px;
+    }
+
+    .line {
+      width: 30%;
+      height: 2px;
+      background-color: #fff;
+    }
+
+    /* Values Parts Styling */
+    .values-parts {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      padding: 20px;
+      background-color: #000;
+      color: #fff;
+    }
+
+    .value-part {
+      text-align: justify;
+      margin: 20px;
+      flex-basis: calc(30% - 40px); /* Adjust the width based on your design */
+      
+    }
+
+    .value-part h3 {
+      margin-bottom: 5px;
+      text-align: center;
+      font-size: medium;
+    }
+
+    .value-part p {
+     
+    
+    font-size: small;
+    }
+
+    .value-part i {
+      display: block;
+      margin-bottom: 10px;
+      text-align: center;
+      font-size: medium;
+    }
+ 
